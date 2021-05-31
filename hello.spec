@@ -25,4 +25,4 @@ install -m 755 hello-world.sh %{buildroot}/usr/bin/hello-world.sh
 /usr/bin/hello-world.sh
 
 %changelog
-# let's skip this for now
+* Mon May 31 2021 Leonardo Rossetti <me@lrossetti.com>
